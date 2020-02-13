@@ -13,6 +13,7 @@ public class login extends AppCompatActivity {
 
         getIntent();
         int a = 10;
+        int b = 20;
 
 
 
