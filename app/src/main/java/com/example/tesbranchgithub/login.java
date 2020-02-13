@@ -15,6 +15,7 @@ public class login extends AppCompatActivity {
         int a = 10;
         int b = 20;
         int c = 30;
+        int main_git = 3;
 
 
 
